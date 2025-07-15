@@ -8,7 +8,7 @@ langgraph_learning/
 ├── 2_llm_qa_workflow.ipynb         # LLM-based Q&A workflow
 ├── 3_blog_rating_workflow.ipynb    # Topic → Outline → Blog → Score workflow
 ├── 4_batsman_workflow.ipynb        # Cricket Score Summary
-├── 5_UPSC_essay_workflow.ipynb     # Essay → Evaluate
+├── 5_UPSC_essay_workflow.ipynb     # Essay → Evaluate → AvgScore → Workflow
 ├── requirements.txt
 └── README.md
 ```
