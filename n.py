@@ -1,6 +1,7 @@
 import fitz
 
 file = fitz.open("docss\SQL Revision Notes.pdf")
-print(file[0])
 
+docs = file.load_page()
+print(docs)
 
