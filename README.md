@@ -10,7 +10,7 @@ langgraph_learning/
 ├── 4_batsman_workflow.ipynb        # Cricket Score Summary
 ├── 5_UPSC_essay_workflow.ipynb     # Essay → Evaluate → AvgScore → Workflow
 ├── 6_review_reply_workflow.ipynb   # Review → Sentiment → Reply
-├── 7_X_post_generator.ipynb 
+├── 7_X_post_generator.ipynb        # 
 ├── 8_basic_chatbot.ipynb           # Chat with memory
 ├── requirements.txt
 └── README.md
