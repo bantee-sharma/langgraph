@@ -7,7 +7,6 @@ This repository contains 4 step-by-step projects built using LangGraph, a framew
 
 
 
-
 langgraph_learning/
 ├── 0_import_test.ipynb             # Just imports and tests StateGraph
 ├── 1_bmi_workflow.ipynb            # BMI calculator workflow
